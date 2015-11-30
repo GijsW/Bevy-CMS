@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Login Grade System</title>
+		<title>Bevy</title>
 	</head>
 	<body background="img/login.jpg">
 		<?php
@@ -36,7 +36,7 @@
 				if (!$result->num_rows == 1) {
 					echo "<p>Invalid username/password combination</p>";
 				} else {
-					header("location: grades.php"); //Redirect to the grade system
+					header("location: admin.php");
 				}
 			}
 		?>		

@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Register</title>
+		<title>Bevy</title>
 	</head>
 	<body background="img/login.jpg">	
 		<center>
