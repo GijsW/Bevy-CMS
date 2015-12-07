@@ -1,4 +1,4 @@
-# Bevy-CMS - A company an assembly or collection of persons especially of ladies
+# Bevy - A collection of persons especially of ladies
 A CMS made by students
 
 Login
