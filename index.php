@@ -16,7 +16,7 @@
 					<br>
 					<input type="submit" name="submit" value="Login" />
 				</form>
-				<a href="register.php"> <button> No account yet? </button> </a>
+				<a href="register.php"> <button>Register</button> </a>
 			</center>
 		<?php
 		} else {
